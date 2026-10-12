@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://valter-25.vercel.app/sitemap.xml
+Sitemap: https://valter-25-seven.vercel.app/sitemap.xml
